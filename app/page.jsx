@@ -1,9 +1,9 @@
-import MainPage from "./components/MainPage";
+import Banner from "./layouts/Banner";
 
 export default function Home() {
   return (
     <>
-      <MainPage />
+      <Banner />
     </>
   );
 }

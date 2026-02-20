@@ -2,6 +2,7 @@ import About from "./layouts/About";
 import Banner from "./layouts/Banner";
 import Counter from "./layouts/Counter";
 import Service from "./layouts/Service";
+import Work from "./layouts/Work";
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <Service />
       <About />
       <Counter />
+      <Work />
     </>
   );
 }

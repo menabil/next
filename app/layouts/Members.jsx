@@ -10,7 +10,7 @@ const Members = () => {
         <p className="font-Oswald font-semibold text-base text-[#F75709] uppercase">
           Our Team members
         </p>
-        <h3 className="uppercase font-Oswald text-[#063231] mx-auto font-semibold text-[60px] leading-[66px] w-[700px] pt-2.5 pb-7.5">
+        <h3 className="uppercase font-Oswald text-[#063231] mx-auto font-semibold text-[60px] leading-16.5 w-175 pt-2.5 pb-7.5">
           Get consulting from our best consultants
         </h3>
         <Flex className={" pt-7.5"}>

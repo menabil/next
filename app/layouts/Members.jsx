@@ -17,6 +17,7 @@ const Members = () => {
           <div className="w-1/4">
             <Image
               src={"/mOne.png"}
+              alt="mOne"
               height={370}
               width={305}
               className="mx-auto"
@@ -29,6 +30,7 @@ const Members = () => {
           <div className="w-1/4">
             <Image
               src={"/mTwo.png"}
+              alt="mTwo"
               height={370}
               width={305}
               className="mx-auto"
@@ -41,6 +43,7 @@ const Members = () => {
           <div className="w-1/4">
             <Image
               src={"/mThr.png"}
+              alt="mThr"
               height={370}
               width={305}
               className="mx-auto"
@@ -53,6 +56,7 @@ const Members = () => {
           <div className="w-1/4">
             <Image
               src={"/mFor.png"}
+              alt="mFor"
               height={370}
               width={305}
               className="mx-auto"

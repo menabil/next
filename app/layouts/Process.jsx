@@ -7,6 +7,7 @@ const Process = () => {
     <div className="bg-[#063231] relative py-32.5">
       <Image
         src={"/process.png"}
+        alt="process"
         className="absolute top-0 right-0"
         height={567}
         width={538}
@@ -15,7 +16,7 @@ const Process = () => {
         <p className="font-Oswald font-semibold text-base text-[#F75709] uppercase">
           Working process
         </p>
-        <h3 className="uppercase font-Oswald text-white mx-auto font-semibold text-[60px] leading-[66px] w-[550px] pt-2.5 pb-7.5">
+        <h3 className="uppercase font-Oswald text-white mx-auto font-semibold text-[60px] leading-16.5 w-137.5 pt-2.5 pb-7.5">
           We make things easy for you to start
         </h3>
       </Container>

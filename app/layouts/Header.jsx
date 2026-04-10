@@ -34,12 +34,7 @@ const Header = () => {
           <Flex className={"justify-between font-Oswald"}>
             <Flex className="">
               <Link href={"/"}>
-                <Image
-                  src={"/logo.png"}
-                  alt="/logo.png"
-                  width={130}
-                  height={33}
-                />
+                <Image src={"/logo.png"} alt="logo" width={130} height={33} />
               </Link>
               <ul className="flex gap-x-7.5 text-[#063231] uppercase font-semibold ml-15">
                 <li>

@@ -10,7 +10,7 @@ const About = () => {
       <Container>
         <Flex className={"mt-12 justify-between"}>
           <Image src={"/about.png"} width={624} height={688} alt="about.png" />
-          <div className="w-[530px]">
+          <div className="w-132.5">
             <h5 className="text-base text-[#F75709] font-Oswald font-semibold uppercase">
               About company
             </h5>

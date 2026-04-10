@@ -26,9 +26,10 @@ const Banner = () => {
               </Link>
             </div>
             <div className="relative ">
-              <Image src={"/hero.png"} height={904} width={688} />
+              <Image src={"/hero.png"} alt="hero" height={904} width={688} />
               <Image
                 src={"/bannerShap.png"}
+                alt="bannerShap"
                 height={178}
                 width={130}
                 className="absolute top-20 left-0"

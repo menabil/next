@@ -8,7 +8,7 @@ const Service = () => {
       <Container>
         <div className="text-center pb-7.5 font-semibold font-Oswald uppercase">
           <p className="text-base text-[#F75709]">Our Services</p>
-          <h3 className="text-[60px] text-[#063231] w-[596px] leading-16.5 mx-auto pt-2.5 pb-7.5">
+          <h3 className="text-[60px] text-[#063231] w-149 leading-16.5 mx-auto pt-2.5 pb-7.5">
             Versatile Range <br /> of Business Solutions
           </h3>
         </div>
